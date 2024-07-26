@@ -1,19 +1,17 @@
 # Backend for my WebSite
 
-## About me
+## About project
 
-My name is Konstantin! I am a web developer, I love writing web applications and learning new technologies. I am open to your suggestions, I will be happy to work on an interesting project.
-
----
+This is one of my projects. This is a blog site. This is the frontend part, it will upload data if from the backend and you will be able to register and see posts with comments. If you haven't installed the backend part, then go [here](https://github.com/ConstPavlov/blog-backend)
 
 ## Language and Tools
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![NodeJS](https://img.shields.io/badge/NodeJS-E0FFFF?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-808080?style=for-the-badge&logo=mongoDB)
-![JWT](https://img.shields.io/badge/JWT-FFD700?style=for-the-badge&logo=JSON+Web+Tokens)
+![React](https://img.shields.io/badge/React-E0FFFF?style=for-the-badge&logo=react)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ---
 
@@ -41,6 +39,12 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+---
+
+## About me
+
+My name is Konstantin! I am a web developer, I love writing web applications and learning new technologies. I am open to your suggestions, I will be happy to work on an interesting project.
 
 ---
 
