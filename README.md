@@ -1,4 +1,4 @@
-# Backend for my WebSite
+# Frontend for my WebSite
 
 ## About project
 
